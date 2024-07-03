@@ -29,5 +29,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install flake8
 
+      - name: List files for debugging
+        run: |
+          echo "Listing files in the repository"
+          ls -R
+
       - name: Run flake8
         run: flake8 .
