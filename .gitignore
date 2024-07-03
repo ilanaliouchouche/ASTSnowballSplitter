@@ -8,7 +8,6 @@ __pycache__/
 .vscode/
 
 # Build output files
-build/
 dist/
 
 # Dependency files
@@ -69,3 +68,6 @@ libs/
 
 # External files
 *tree-sitter*
+
+# Info files
+*-info
