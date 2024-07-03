@@ -1,0 +1,56 @@
+# Fichiers et répertoires générés par l'environnement de développement
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers de configuration spécifiques à l'IDE
+.idea/
+.vscode/
+
+# Fichiers de sortie de build
+build/
+dist/
+
+# Fichiers de dépendances
+venv/
+env/
+lib/
+libs/
+
+# Fichiers de logs et de sauvegarde
+*.log
+*.bak
+*.swp
+
+# Fichiers de configuration
+*.ini
+*.cfg
+
+# Fichiers de données
+*.csv
+*.json
+*.xml
+
+# Fichiers de sauvegarde
+*.bak
+*.swp
+*.~*
+# Fichiers de cache
+.cache/
+# Fichiers de logs
+*.log
+# Fichiers de résultats de tests
+test_results/
+# Fichiers générés par l'environnement de développement
+__pycache__/
+*.py[cod]
+*$py.class
+# Répertoire virtuel d'environnement
+venv/
+# Répertoire de build
+build/
+# Répertoire de distribution
+dist/
+# Répertoire de dépendances
+lib/
+libs/
