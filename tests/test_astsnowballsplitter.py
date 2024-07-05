@@ -1,8 +1,6 @@
 import unittest
 from src.astsnowballsplitter import ASTSnowballSplitter, ASTLanguageConfig
 from transformers import AutoTokenizer
-
-# récupérer le path du fichier
 import os
 
 current_dir = os.path.dirname(__file__)
