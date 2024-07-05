@@ -20,7 +20,7 @@ pip install astsnowballsplitter
 ## Usage
 
 ```python
-from code_splitter.astsnowballsplitter import ASTSnowballSplitter, ASTLanguageConfig
+from astsnowballsplitter.code_splitter import ASTSnowballSplitter, ASTLanguageConfig
 from transformers import AutoTokenizer
 from langchain.schema import Document
 
