@@ -66,3 +66,9 @@ for doc in documents:
     print(doc.page_content)
     print(doc.metadata)
 ```
+
+## Contributors
+
+- [**Ilan ALIOUCHOUCHE**](https://github.com/ilanaliouchouche)
+- [**Rabah ACHOUR**](https://github.com/Ravvah)
+
